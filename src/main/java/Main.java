@@ -13,10 +13,16 @@ public class Main {
         return formatter.format(date);
     }
 
+    static String getPlanet(){
+      String planet = "Earth";
+      return planet;
+    }
+
     public static void main(String[] args) {
 
         Javalin app = Javalin.create().start(4100);
-        app.get("/", ctx -> ctx.result("The time is " + getDate()));
+
+        app.get("/", ctx -> ctx.result("The planet we are on is " + getPlanet()));
 
     }
 }
