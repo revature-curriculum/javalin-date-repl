@@ -14,7 +14,7 @@ public class Main {
     }
 
     static String getPlanet(){
-      String planet = "Earth";
+      String planet = "Earth.";
       return planet;
     }
 
