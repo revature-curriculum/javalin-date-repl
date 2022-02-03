@@ -1,4 +1,4 @@
-## Javalin Date Challenge this is in the lesson area
+## Javalin Date Challenge
 ---
 ### Description
 In this lab, we will cover displaying something more dynamic using Javalin.
