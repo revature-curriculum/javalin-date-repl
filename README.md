@@ -1,4 +1,4 @@
-## Javalin Date Challenge
+## Javalin Framework
 ---
 ### Description
 In this lab, we will cover displaying something more dynamic using Javalin.
