@@ -22,7 +22,7 @@ public class Main {
 
         Javalin app = Javalin.create().start(4100);
 
-        app.get("/", ctx -> ctx.result("The planet we are on is " + getPlanet()));
+        app.get("/", ctx -> ctx.result("The time is " + getDate()));
 
     }
 }

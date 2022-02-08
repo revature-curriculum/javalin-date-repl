@@ -1,4 +1,4 @@
-## Javalin Framework
+## Javalin Framework Answer
 ---
 ### Description
 In this lab, we will cover displaying something more dynamic using Javalin.
