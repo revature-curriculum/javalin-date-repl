@@ -5,8 +5,9 @@ In this lab, we will cover displaying something more dynamic using Javalin.
 
 ---
 ### Steps
-1. In src -> main -> java -> Main.java, change the method being called and the print out statement in the route "/" to use the getDate() method and an appropriate print out for it
-2. Notice how when you refresh the page the time updates. This is an example of the web page displaying something dynamic.
+1. In src -> main -> java -> Main.java, change the method being called in the route "/" to use the getDate() method.
+2. Change the print out for the route to something more appropriate for the new method being used.
+3. Notice how when you refresh the page the time updates. This is an example of the web page displaying something dynamic.
 
 ---
 ### Sample Output
